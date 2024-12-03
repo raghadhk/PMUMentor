@@ -17,11 +17,29 @@
 
 ## System Screen
 
-![Splash Screen](./Screens/Splash%20Screen.png)
-![Login Screen](./Screens/Log%20in.png)
-![Register Screen](./Screens/Register.png)
-![Home Screen](./Screens/Mentee-Home.png)
-![Profile Screen](./Screens/Mentee-Profile.png)
+<p align="center">
+  <img src="./Screens/Splash Screen.png" alt="Splash Screen" width="30%" />
+  <img src="./Screens/Log in.png" alt="Login Screen" width="30%" />
+  <img src="./Screens/Register.png" alt="Register Screen" width="30%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="./Screens/Mentee-Home.png" alt="Home Screen" width="30%" />
+  <img src="./Screens/Mentee-Profile.png" alt="Profile Screen" width="30%" />
+  <img src="./Screens/Mentor-Add Event.png" alt="Add Event Screen" width="30%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="./Screens/Chats.png" alt="Chat Screen" width="30%" />
+  <img src="./Screens/Resources.png" alt="Resources Screen" width="30%" />
+  <img src="./Screens/Mentee-Events.png" alt="Show Events Screen" width="30%" />
+</p>
+
+---
 
 ## Download Project:
    ```bash
